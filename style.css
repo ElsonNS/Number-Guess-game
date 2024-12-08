@@ -1,0 +1,49 @@
+body {
+  background-color: #212121;
+}
+
+#wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+  color: aliceblue;
+  font-size: 60px;
+  color: blanchedalmond;
+}
+
+#guess {
+  color: aqua;
+}
+.form {
+  text-align: center;
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.guessField {
+  font-size: 30px;
+  border-radius: 10px;
+}
+
+p {
+  color: aliceblue;
+  font-size: 26px;
+}
+
+#guess {
+  font-size: 50px;
+}
+
+#subt {
+  font-size: 25px;
+  border-radius: 10px;
+  background-color: black;
+  color: antiquewhite;
+}
